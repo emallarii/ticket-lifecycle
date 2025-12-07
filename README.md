@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/O8ZxKiq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assigned ticket to "jane doe" to resolve online banking issue, made sure the issue was a sev-a issue and made sure the issue was resolved before closing.
+Assigned ticket to "jane doe" to resolve online banking issue, made sure the problem was a sev-a issue and made sure the issue was resolved before closing.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ Assigned ticket to "jane doe" to resolve online banking issue, made sure the iss
 <img src="https://i.imgur.com/jvygBtU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created another placebo ticket and assigned it to "john doe", this time sev-c, again, made sure the issue was resolved before closing out and completing ticket.
+Created another placebo ticket and assigned it to "john doe". This time sev-c. Again, made sure the issue was resolved before closing out and completing ticket.
 </p>
 <br />
 
