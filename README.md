@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O8ZxKiq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Assigned ticket to "jane doe" to resolve online banking issue, made sure the issue was a sev-a issue and made sure the issue was resolved before closing.
@@ -39,7 +39,7 @@ Assigned ticket to "jane doe" to resolve online banking issue, made sure the iss
 <br />
 
 <p>
-<img src="(https://imgur.com/O8ZxKiq)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jvygBtU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Created another placebo ticket and assigned it to "john doe", this time sev-c, again, made sure the issue was resolved before closing out and completing ticket.
@@ -47,7 +47,7 @@ Created another placebo ticket and assigned it to "john doe", this time sev-c, a
 <br />
 
 <p>
-<img src="https://imgur.com/a/wGUD2sq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ByhGR1R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This time assigned a sev-b issue to "john doe" again. Made sure the imaginary problem was resolved before closing out ticket. 
